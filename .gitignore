@@ -18,3 +18,7 @@ cypress
 .prettierignore
 .prettierrc
 mysqlToPostgres.js
+.evershop
+.log
+node_modules
+.env
